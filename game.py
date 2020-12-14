@@ -1,3 +1,5 @@
+##MAite Flores
+##Nov 2020
 import turtle
 import math
 import random
